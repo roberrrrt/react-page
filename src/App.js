@@ -1,12 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Random from './random';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Hello World Testing!12345</p>
+        {/* <p>Hello World Testing!12345789</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -18,7 +19,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
+        <Random />
       </header>
     </div>
   );
