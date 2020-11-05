@@ -13,7 +13,7 @@ export default class Random extends React.Component {
         '想見你',
         '第一滴血',
         '小琉球',
-        '龍蝦洞',
+        '龍蝦洞789',
         '小夫我要進來了',
         '下蛋',
         '吹牛',
