@@ -6,7 +6,7 @@ export default class Random extends React.Component {
     this.state = {
       topic: null,
       title: [
-        '亞洲舞王',
+        '亞洲舞王QAQ',
         '地球上最浪漫的一首歌',
         '馬子狗',
         '我要打十個',
